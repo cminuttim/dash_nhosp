@@ -22,6 +22,7 @@ El modelo final se genera mediante Regresión Binomial Negativa. El archivo PICK
 
 ## Uso
 Ejecutar `ipython dash_nhosp.py`
+
 Abrir `http://0.0.0.0:8443/n_hosp/` en el navegador.
 
 ![Captura de pantalla del sistema web funcionando](dash.jpg)
