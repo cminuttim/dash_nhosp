@@ -43,3 +43,16 @@ Abrir en el navegador `http://0.0.0.0:8443/n_hosp/`
 
 ### Repositorios relacionados
 [Generación automatizada de modelos predictivos del número y severidad de las hospitalizaciones](https://github.com/cminuttim/modelos_hosp)
+
+## Citar
+
+```bibtex
+@software{dash_nhosp,
+  title = {{Sistema web para la modelización del número de hospitalizaciones evitables}},
+  author = {Carlos Minutti},
+  url = {https://github.com/cminuttim/dash_nhosp/},
+  month = {3},
+  year = {2023},
+  version = {0.1},
+}
+```
